@@ -28,7 +28,10 @@ html {
 body {
 	background: #f9f3f6;
 	position: relative;
+	cursor: url(assets/images/favicon.png), auto;
 }
+
+
 
 a:focus {
 	outline: 0;
@@ -183,7 +186,7 @@ a:hover {
 
 .navbar-toggle {
 	font-size: 30px;
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 }
 
 .drop-down li {
@@ -229,7 +232,7 @@ a:hover {
 }
 
 .drop-button {
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 }
 
 .navbar li:hover .drop-down {
@@ -288,7 +291,7 @@ li.drop-active a {
 }
 
 .filters li {
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 	display: inline-block;
 	margin:0px 15px 0px 15px;
 	font-weight: 400;
@@ -321,7 +324,7 @@ span.eye-icon {
 	top: 25px;
 	left: 25px;
 	color: #f397c8;
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 	-webkit-transition: 0.2s;
   	-moz-transition: 0.2s;
   	transition: 0.2s;
@@ -609,7 +612,7 @@ span.eye-icon-open {
 	color: #fff;
 	margin: 0px 8px;
 	font-size: 20px;
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 }
 
 /*--------------------------------------------------
@@ -711,7 +714,7 @@ span.eye-icon-open {
 }
 
 .blog-text h3 {
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 	font-size: 40px;
 	font-family: "Playfair Display", sans-serif;
 	letter-spacing: 1px;
@@ -974,7 +977,7 @@ textarea {
 
 input.submit {
 	width: auto;
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 	position: relative;
 	border:0;
 	margin-top: 10px;
@@ -1298,7 +1301,7 @@ body {
 }
 
 .filters li {
-	cursor: pointer;
+	cursor: url(assets/images/favicon.png), auto;
 	display: inline-block;
 	margin:0px 0px 0px 20px;
 	font-weight: 300;
