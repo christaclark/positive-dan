@@ -1,0 +1,50 @@
+body {
+  background: #fbe6f1 url("assets/images/10.png") no-repeat bottom center fixed;
+  font: 100%/1 "Work Sans", sans-serif;
+}
+
+#wrapper {
+  margin: 1em auto;
+  max-width: 600px;
+  text-align: center;
+}
+
+#insult {
+  color: #9C27B0;
+  line-height: 1.5;
+  padding: .5em 1em;
+  margin: 1.5em auto .5em;
+  border-radius: 50px;
+}
+
+#insult p {
+  font-size: 2em;
+  margin: 0;
+}
+
+h1 {
+  font-family: "Playfair Display", sans-serif;
+  font-size: 70px;
+  letter-spacing: 2px;
+  font-weight: 600;
+  color: #f397c8;
+  margin-bottom: 10px;
+  font-style: italic;
+}
+
+#control {
+  border-radius: 3px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 0.875em;
+  padding: 1em;
+  text-transform: uppercase;
+  background: #f397c8;
+  line-height: 1.5;
+  margin: 1.5em auto .5em;
+  border-radius: 50px;
+}
+
+#control:hover {
+  background: white;
+}
